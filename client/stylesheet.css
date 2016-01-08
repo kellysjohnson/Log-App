@@ -10,3 +10,14 @@
     font-family: Verdana, Comic Sans, sans-serif;
     text-align: center;
 }
+
+.photo {
+    margin:auto;
+    width:320px;
+    border-radius:2px;
+    padding:10px;
+    background-color:darkgreen;
+}
+
+img {
+}

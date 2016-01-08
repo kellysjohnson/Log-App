@@ -1,0 +1,24 @@
+{
+  "name": "log_app",
+  "version": "1.0.0",
+  "description": "App for logging logs",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/s_app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellysjohnson/Log-App.git"
+  },
+  "author": "Kelly S. Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellysjohnson/Log-App/issues"
+  },
+  "homepage": "https://github.com/kellysjohnson/Log-App#readme"
+}
