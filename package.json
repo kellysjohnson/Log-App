@@ -4,12 +4,14 @@
   "description": "App for logging logs",
   "main": "app.js",
   "dependencies": {
-    "angular": "^1.4.8"
+    "angular": "^1.4.8",
+    "express": "^4.13.3",
+    "path": "^0.12.7"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/s_app.js"
+    "start": "node server/app.js"
   },
   "repository": {
     "type": "git",
