@@ -1,0 +1,12 @@
+/* Set App Title Div*/
+.title {
+    color: white;
+    background-color: #78501f;
+    margin: auto;
+    height: 50px;
+    width: 400px;
+    border-radius:5px;
+    font-size:38px;
+    font-family: Verdana, Comic Sans, sans-serif;
+    text-align: center;
+}
